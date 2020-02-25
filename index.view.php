@@ -8,6 +8,7 @@
 </head>
 <body>
    <h1>Index View Page is up Man!</h1>
-   <h2><?= $greeting ?></h2>
+
+   <h2><?= $unpublishedPosts["title"]; ?></h2>
 </body>
 </html>
