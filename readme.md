@@ -1,0 +1,1 @@
+## php -h or php -help in terminal
